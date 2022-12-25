@@ -1,0 +1,1 @@
+- https://www.notion.so/Clean-Code-2-Code-Review-Old-Public-516fb0909bb54f738badfa8138b4f030

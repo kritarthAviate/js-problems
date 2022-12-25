@@ -1,0 +1,3 @@
+function accessorProperties() {}
+
+export { accessorProperties };

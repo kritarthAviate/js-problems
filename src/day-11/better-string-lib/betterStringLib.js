@@ -1,0 +1,6 @@
+class BetterStringLib {
+}
+
+export {
+  BetterStringLib,
+};
