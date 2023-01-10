@@ -1,4 +1,5 @@
-## This question has 5 sub questions. 
+## This question has 5 sub questions.
+
 ### Please see the test cases.
 
 The `dataset.json` will be used in the solutions.
@@ -7,7 +8,7 @@ The `dataset.json` will be used in the solutions.
   Return an array with accounts from bankBalances that are
   greater than 100000 without using for or while loop
 
-- **datasetWithRoundedDollar()** 
+- **datasetWithRoundedDollar()**
 
   **DO NOT MUTATE DATA.**
 
@@ -18,6 +19,7 @@ The `dataset.json` will be used in the solutions.
   `rounded` value is `amount` rounded to the nearest dollar
 
   Example:
+
   ```js
     {
       "amount": "134758.44",
@@ -25,17 +27,18 @@ The `dataset.json` will be used in the solutions.
       "rounded": 134758
     }
   ```
+
 - **sumOfBankBalances()**  
-Return the sum of all values held at `amount` for each bank object
+  Return the sum of all values held at `amount` for each bank object
 
 - **sumOfInterests()**  
   From each of the following states:
-    Wisconsin, 
-    Illinois
-    Wyoming
-    Ohio
-    Georgia
-    Delaware
+  Wisconsin,
+  Illinois
+  Wyoming
+  Ohio
+  Georgia
+  Delaware
   take each `amount` and add 18.9% interest to it rounded to the nearest cent
   and then sum it all up into one value saved to `sumOfInterests`
 
